@@ -1,0 +1,40 @@
+{
+  "rewrites": [
+    {
+      "source": "/blog-1/f/:slug",
+      "destination": "/blog-1.html"
+    },
+    {
+      "source": "/dating-profile-audit/f/:slug",
+      "destination": "/dating-profile-audit.html"
+    },
+    {
+      "source": "/audit/f/:slug",
+      "destination": "/audit.html"
+    },
+    {
+      "source": "/bio-ideas-for-dating-apps/f/:slug",
+      "destination": "/bio-ideas-for-dating-apps.html"
+    },
+    {
+      "source": "/free-tinder-photoshoot/f/:slug",
+      "destination": "/free-tinder-photoshoot.html"
+    },
+    {
+      "source": "/join-the-dating-club/f/:slug",
+      "destination": "/join-the-dating-club.html"
+    },
+    {
+      "source": "/meet-in-real-life-brussel/f/:slug",
+      "destination": "/meet-in-real-life-brussel.html"
+    },
+    {
+      "source": "/prepare-for-a-photoshoot-1/f/:slug",
+      "destination": "/prepare-for-a-photoshoot-1.html"
+    },
+    {
+      "source": "/tinderfotoshoot-brussel-1/f/:slug",
+      "destination": "/tinderfotoshoot-brussel-1.html"
+    }
+  ]
+}
